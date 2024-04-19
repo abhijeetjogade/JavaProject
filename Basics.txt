@@ -1,0 +1,1 @@
+We have to implement core java project called bank management system
